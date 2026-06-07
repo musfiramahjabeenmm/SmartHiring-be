@@ -180,4 +180,4 @@ src/main/java/com/hire/smart/hiring/
 
 ## Frontend
 
-Frontend repo: https://github.com/musfiramahjabeenmm/smart-hiring-frontend
+Frontend repo: https://github.com/musfiramahjabeenmm/SmartHiring-fe.git
