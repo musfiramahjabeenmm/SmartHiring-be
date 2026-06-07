@@ -71,4 +71,4 @@ mvn spring-boot:run
 Server runs on http://localhost:8081
 
 ## Frontend
-Frontend repo: https://github.com/musfiramahjabeenmm/smart-hiring-frontend
+Frontend repo: https://github.com/musfiramahjabeenmm/SmartHiring-fe.git
