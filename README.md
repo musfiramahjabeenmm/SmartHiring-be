@@ -52,5 +52,23 @@ A RESTful backend for a role-based hiring platform built with Spring Boot, Sprin
 - Maven
 - PostgreSQL / Supabase account
 
-### Steps
-1. Clone the repo
+**1. Clone the repo**
+
+git clone https://github.com/musfiramahjabeenmm/SmartHiring.git
+cd SmartHiring
+
+**2. Configure application.properties**
+
+spring.datasource.url=your_supabase_url
+spring.datasource.username=your_username
+spring.datasource.password=your_password
+jwt.secret=your_jwt_secret
+
+**3. Run the app**
+
+mvn spring-boot:run
+
+Server runs on http://localhost:8081
+
+## Frontend
+Frontend repo: https://github.com/musfiramahjabeenmm/smart-hiring-frontend
